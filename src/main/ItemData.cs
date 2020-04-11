@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace works.ei8.Data.Aggregate.Common
+{
+    public class ItemData
+    {
+        public string Id { get; set; }
+
+        public string Aggregate { get; set; }
+
+        public int Version { get; set; }
+    }
+}
