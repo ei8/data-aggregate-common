@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace works.ei8.Data.Aggregate.Common
+namespace ei8.Data.Aggregate.Common
 {
     public class ItemData
     {
